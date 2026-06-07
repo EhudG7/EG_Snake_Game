@@ -18,7 +18,7 @@ This project was developed to practice and demonstrate core Object-Oriented Prog
 4.  Run the main file:
     python main.py
 
-## 🎮 Controls
+## Controls
 
 * **Up Arrow:** Move Up
 * **Down Arrow:** Move Down
