@@ -12,7 +12,7 @@ GRID_HEIGHT = 15
 SCREEN_WIDTH = CELL_SIZE * GRID_WIDTH
 SCREEN_HEIGHT = CELL_SIZE * GRID_HEIGHT
 REFRESH_RATE = 10
-APPLE_IMAGE_PATH = r"C:\Users\ehudg\Maple_Related\Python_proj\Helpers\Apple_Sprite.png"
+APPLE_IMAGE_PATH = "Apple_Sprite.png"
 
 screen = pygame.display.set_mode((SCREEN_WIDTH, SCREEN_HEIGHT))
 pygame.display.set_caption("Snake Game for Ernik")
